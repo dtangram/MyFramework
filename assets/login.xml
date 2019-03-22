@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+  <userOne>
+    <email>Mike@aol.com</email>
+    <password>password</password>
+    <messge>Hello I am Mike. I am a student at Full Sail University.</messge>
+  </userOne>
+
+  <userTwo>
+    <email>Joe@aol.com</email>
+    <password>password</password>
+    <messge>Hello I am Joe. I am also a student at Full Sail University.</messge>
+  </userTwo>
+</login>

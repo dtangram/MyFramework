@@ -1,0 +1,55 @@
+.preview-page{
+  padding-top: 250px;
+}
+
+#loginForms > div:nth-child(2){
+  margin-bottom: 40px;
+}
+
+h1{
+  margin-bottom: 40px;
+}
+
+h2{
+  font-size: 1.6rem;
+}
+
+.navbar-nav > a{
+  color: white;
+}
+
+.nav-link:hover{
+  color: red !important;
+  text-decoration: underline !important;
+}
+
+header nav button{
+  background: white;
+}
+
+.modal .modal-dialog .modal-content .modal-body p{
+  color: red;
+}
+
+/*CLASS TO STYLE CURRENT LINK*/
+.currentLink{
+  color: red !important;
+}
+
+.navbar-form{
+  margin-top: 10px;
+  width: 306px;
+}
+
+.form-group{
+  float: left;
+  margin-right: 5%;
+}
+
+.navbar-form .btn{
+  background-color: white !important;
+}
+
+.container > h1:nth-child(1){
+  margin-top: 45px;
+}
